@@ -1,0 +1,57 @@
+body{
+    background-image: url('http://cdn.wallpapersafari.com/89/39/MLfpHS.png');
+}
+.content{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -15em;
+    /*border: 1px solid #ccc;*/
+    /*background-color: grey;*/
+}
+.avatar{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+.round {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+.shits{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    text-align: center;
+    padding-top:10px;
+}
+.intro h1,
+.intro p {
+    display: inline;
+    vertical-align: top;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 28px;
+}
+.contact-btn{
+    background-color: #03a9f4; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+.icon-container{
+    margin-top:10px;
+}
+.icon-container a{
+    padding-left:7px;
+    font-size: 25px;
+    color:white;
+}
